@@ -1,0 +1,51 @@
+[
+    {
+      
+      "doctor_name": "Dr. John Smith",
+      "doctor_specialist": "Cardiologist",
+      "disease_name": "Hypertension",
+      "disease_info": "Hypertension, or high blood pressure, is a common cardiovascular condition. It occurs when the force of blood against the artery walls is consistently too high, leading to potential health risks. Dr. John Smith specializes in diagnosing and treating hypertension.",
+      "doctor_visit_fee": 150
+    },
+    {
+      
+      "doctor_name": "Dr. Emily Davis",
+      "doctor_specialist": "Dermatologist",
+      "disease_name": "Eczema",
+      "disease_info": "Eczema is a skin condition characterized by red, itchy, and inflamed skin. Dr. Emily Davis, a dermatologist, is well-versed in addressing various dermatological issues, including the diagnosis and management of eczema.",
+      "doctor_visit_fee": 120
+    },
+    {
+      
+      "doctor_name": "Dr. Michael Johnson",
+      "doctor_specialist": "Gastroenterologist",
+      "disease_name": "Irritable Bowel Syndrome (IBS)",
+      "disease_info": "IBS is a common disorder affecting the large intestine, causing symptoms like abdominal pain, bloating, and changes in bowel habits. Dr. Michael Johnson specializes in gastroenterology and provides expert care for patients dealing with IBS.",
+      "doctor_visit_fee": 180
+    },
+    {
+      
+      "doctor_name": "Dr. Sarah Miller",
+      "doctor_specialist": "Psychiatrist",
+      "disease_name": "Depression",
+      "disease_info": "Depression is a mental health disorder characterized by persistent sadness and a lack of interest in activities. Dr. Sarah Miller, a psychiatrist, offers compassionate care and therapeutic interventions for individuals dealing with depression.",
+      "doctor_visit_fee": 200
+    },
+    {
+      
+      "doctor_name": "Dr. Kevin Lee",
+      "doctor_specialist": "Orthopedic Surgeon",
+      "disease_name": "Osteoarthritis",
+      "disease_info": "Osteoarthritis is a degenerative joint disease that affects the cartilage in joints. Dr. Kevin Lee, an orthopedic surgeon, specializes in the diagnosis and surgical treatment of orthopedic conditions, including osteoarthritis.",
+      "doctor_visit_fee": 250
+    },
+    {
+      
+      "doctor_name": "Dr. Aisha Rahman",
+      "doctor_specialist": "Pediatrician",
+      "disease_name": "Asthma in Children",
+      "disease_info": "Asthma is a chronic respiratory condition that can affect children. Dr. Aisha Rahman, a pediatrician, focuses on the health and well-being of children, providing comprehensive care for conditions such as asthma.",
+      "doctor_visit_fee": 130
+    }
+  ]
+  
